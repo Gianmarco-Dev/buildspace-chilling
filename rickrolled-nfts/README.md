@@ -5,5 +5,5 @@ This project demonstrates a basic Hardhat use case. It comes with a sample contr
 Try running some of the following tasks:
 
 Dedicated to Raza: such a pleasure to be in this community. 
-# Take a look at the amazing [Buildspace Website] (https://https://buildspace.so/) and start coding. 
+# Take a look at the amazing [Buildspace Website](https://https://buildspace.so/) and start coding. 
 
